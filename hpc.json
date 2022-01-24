@@ -1,0 +1,5 @@
+{
+  "box_name": "centos8-hpc",
+  "disk_size": "16384",
+  "guest_additions": "upload"
+}

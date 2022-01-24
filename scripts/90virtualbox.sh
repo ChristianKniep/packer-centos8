@@ -17,3 +17,4 @@ sh /mnt/VBoxLinuxAdditions.run
 umount /mnt
 rm -rf /home/vagrant/VBoxGuestAdditions_*.iso
 
+    
